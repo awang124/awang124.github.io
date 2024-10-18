@@ -7,11 +7,11 @@ ui <- navbarPage(
   tabPanel("ABOUT", includeHTML("www/main.html")),
   navbarMenu(
     "PROJECTS",
-    tabPanel("Cardiac Arrhythmia Diagnosis", includeHTML("../../ecg/ecg.html")),
-    tabPanel("Stock Price Prediction", includeHTML("../../stock/stock.html")),
-    tabPanel("Spam Email Detection", includeHTML("../../spam/spam.html")),
-    tabPanel("House Price Prediction", includeHTML("../../housing/housing.html")),
-    tabPanel("Sales Data Analysis", includeHTML("../../northwind/northwind.html"))
+    tabPanel("Cardiac Arrhythmia Diagnosis", includeHTML("html/ecg.html")),
+    tabPanel("Stock Price Prediction", includeHTML("html/stock.html")),
+    tabPanel("Spam Email Detection", includeHTML("html/spam.html")),
+    tabPanel("House Price Prediction", includeHTML("html/housing.html")),
+    tabPanel("Sales Data Analysis", includeHTML("html/northwind.html"))
   ),
   tabPanel("CV", tags$iframe(style="height:900px; width:100%", src="cv.pdf"))
 )
