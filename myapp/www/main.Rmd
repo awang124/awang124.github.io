@@ -17,18 +17,29 @@ AMS & CS @ JHU <br><br>
 ![](linkedin.jpg){#id .class witdh=20px height=20px} [LinkedIn](https://www.linkedin.com/in/awang124)
 ::::
 
-:::: {style="width: 900px;"}
+:::: {style="width: 900px; text-align: justify;"}
 # ABOUT
-Current second-year B.S. student in the Department of Applied Mathematics & Statistics at Johns Hopkins University, with a second major in Computer Science. At the Johns Hopkins Medical Institute's [Laboratory of Computational Intensive Care Medicine](https://lcicm.jhmi.edu), I work on artificial intelligence and healthcare projects centered around data-driven physiological subphenotype discovery using unsupervised machine learning to better categorize heterogeneity in hospitalized populations.
+Current sophomore at Johns Hopkins University majoring in Applied Mathematics & Statistics and Computer Science. At the Johns Hopkins Medical Institute's [Laboratory of Computational Intensive Care Medicine](https://lcicm.jhmi.edu), I research and develop methods in data-driven physiological phenotype discovery using machine learning and artificial intelligence to better categorize heterogeneity in hospitalized populations. My current work focuses on self-supervised representation learning of clinical time-series data using transformers to predict treatment outcomes in critical care patients.
 
 # PROJECTS
 This site's __Projects__ section showcases several data science projects I completed during the summer of 2024, from most to least recent. Each page corresponds to one project, and contains a general description, code, detailed explanations of procedures and methodologies, and results.
 
 # EDUCATION
 #### RELEVANT COURSES
-Fall 2024: \ \ \ \ \ \ Honors Probability, Optimization, Data Structures, Computer Systems <br>
-Spring 2024: \ Honors Linear Algebra, Differential Equations, Intermediate Programming <br>
-Fall 2023: \ \ \ \ \ \ Multivariate Calculus, Discrete Mathematics, Gateway Computing
+<table>
+  <tr>
+    <td><strong>Spring 2025:</strong>&nbsp;&nbsp;</td>
+    <td> Deep Learning, Computer Vision, Mathematical Statistics, Stochastic Processes</td>
+  </tr>
+  <tr>
+    <td><strong>Fall 2024:</strong>&nbsp;&nbsp;</td>
+    <td>Probability, Optimization, Data Structures and Algorithms, Computer Systems</td>
+  </tr>
+  <tr>
+    <td><strong>Earlier:</strong>&nbsp;&nbsp;</td>
+    <td>Linear Algebra, Multivariate Calculus, Differential Equations, Discrete Mathematics</td>
+  </tr>
+</table>
 
 #### INDEPENDENT STUDY
 [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurelien Geron <br>
