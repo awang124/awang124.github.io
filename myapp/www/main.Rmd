@@ -19,31 +19,18 @@ AMS & CS @ JHU <br><br>
 
 :::: {style="width: 900px; text-align: justify;"}
 # ABOUT
-Current sophomore at Johns Hopkins University majoring in Applied Mathematics & Statistics and Computer Science. At the Johns Hopkins Medical Institute's [Laboratory of Computational Intensive Care Medicine](https://lcicm.jhmi.edu), I research and develop methods in data-driven physiological phenotype discovery using machine learning and artificial intelligence to better categorize heterogeneity in hospitalized populations. My current work focuses on self-supervised representation learning of clinical time-series data using transformers to predict treatment outcomes in critical care patients.
+Current third-year B.S. student in the Department of Applied Mathematics & Statistics at Johns Hopkins University, with an additional major in Computer Science. At Hopkins, I work on statistical modeling and computer vision projects, advised by [Dr. Mario Micheli](https://engineering.jhu.edu/faculty/mario-micheli) and [Dr. Anton Dahbura](https://engineering.jhu.edu/faculty/anton-dahbura), centered on Bayesian optical flow estimation using Gaussian process regression, and robust object tracking using deep convolutional neural networks.
+
+# PRIOR EXPERIENCE
+Previously, I conducted research with Johns Hopkins Medical Institute's [Laboratory of Computational Intensive Care Medicine](https://lcicm.jhmi.edu), where I worked on projects relating to unsupervised learning for phenotype discovery in critical care patients. I also worked with [Dr. John Edison](https://engineering.jhu.edu/faculty/john-rajadayakaran-edison) and Johns Hopkins Makerspace to develop wearable position-tracking IoT devices for sports analytics. See the __CV__ section for details.
 
 # PROJECTS
-This site's __Projects__ section showcases several data science projects I completed during the summer of 2024, from most to least recent. Each page corresponds to one project, and contains a general description, code, detailed explanations of procedures and methodologies, and results.
+The __Projects__ section showcases several of my personal machine learning projects, including cardiac arrhythmia detection, stock price forecasting, and spam email detection.
 
-# EDUCATION
-#### RELEVANT COURSES
-<table>
-  <tr>
-    <td><strong>Spring 2025:</strong>&nbsp;&nbsp;</td>
-    <td> Deep Learning, Computer Vision, Mathematical Statistics, Stochastic Processes</td>
-  </tr>
-  <tr>
-    <td><strong>Fall 2024:</strong>&nbsp;&nbsp;</td>
-    <td>Probability, Optimization, Data Structures and Algorithms, Computer Systems</td>
-  </tr>
-  <tr>
-    <td><strong>Earlier:</strong>&nbsp;&nbsp;</td>
-    <td>Linear Algebra, Multivariate Calculus, Differential Equations, Discrete Mathematics</td>
-  </tr>
-</table>
-
-#### INDEPENDENT STUDY
-[Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurelien Geron <br>
-[R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham <br>
-[Practical SQL](https://www.practicalsql.com/) by Anthony DeBarros <br>
+# EDUCATION (COURSEWORK)
+Fall 2025: Statistical Learning Theory, Bayesian Statistics, Time Series Analysis, Matrix Analysis <br>
+Spring 2025: Deep Learning, Computer Vision, Mathematical Statistics, Stochastic Processes <br>
+Earlier: Probability, Optimization, Linear Algebra, Data Structures, etc
 ::::
 :::::
+
